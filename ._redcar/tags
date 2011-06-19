@@ -1,4 +1,4 @@
-1308505937
+1308506888
 Application	c:/dev/rails/tutorials/rails3tutorials/sample_app/config/application.rb	  class Application 
 ApplicationController	c:/dev/rails/tutorials/rails3tutorials/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	c:/dev/rails/tutorials/rails3tutorials/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
